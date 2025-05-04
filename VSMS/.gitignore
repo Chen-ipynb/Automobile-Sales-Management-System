@@ -1,9 +1,11 @@
-# 忽略编译生成文件
+
 *.o
 *.exe
 /build/
 
-# 忽略 IDE 配置文件
+
 *.dev
 *.layout
 /ide/
+
+Makefile.win
